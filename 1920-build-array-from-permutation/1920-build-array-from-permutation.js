@@ -3,6 +3,9 @@
  * @return {number[]}
  */
 var buildArray = function(nums) {
-    
-    return nums.map(i => nums[i]);
+    const ans = []
+    for(let i = 0; i < nums.length; i++){
+        ans[i] = nums[nums[i]];
+    }
+    return ans
 };

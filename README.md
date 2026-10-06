@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kambhampatinaveen/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/kambhampatinaveen/leetcode/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/kambhampatinaveen/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/kambhampatinaveen/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kambhampatinaveen/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/kambhampatinaveen/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
